@@ -1,11 +1,9 @@
 import java.util.*;
-<<<<<<< HEAD
 //this is a demo for git hub
 //new line 1
 //new line 2
-=======
 //changes
->>>>>>> origin/master
+//c1
 public class UniqueChar
 {
 	public static void main(String[] args) {
