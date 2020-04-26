@@ -1,6 +1,7 @@
 import java.util.*;
 //this is a demo for git hub
-//new line
+//new line 1
+//new line 2
 public class UniqueChar
 {
 	public static void main(String[] args) {
