@@ -1,5 +1,6 @@
 import java.util.*;
 //this is a demo for git hub
+//new line
 public class UniqueChar
 {
 	public static void main(String[] args) {
