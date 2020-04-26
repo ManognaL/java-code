@@ -3,6 +3,7 @@ import java.util.*;
 //this is a demo for git hub
 //new line 1
 //new line 2
+//new line3
 =======
 //changes
 >>>>>>> origin/master
